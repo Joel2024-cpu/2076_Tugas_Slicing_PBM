@@ -1,3 +1,3 @@
-## 📱 Tampilan Aplikasi
+## Tampilan Slicing
 
 ![Screenshot](assets/Screenshot.png)

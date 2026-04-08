@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # slicing_pbm
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# 2076_Tugas_Slicing_PBM
+>>>>>>> 8d9a6178e9d2653f8806b12aaacac19cd958da22

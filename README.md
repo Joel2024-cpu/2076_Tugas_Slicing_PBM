@@ -1,3 +1,3 @@
 ## 📱 Tampilan Aplikasi
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/Screenshot.png)
